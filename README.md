@@ -2,7 +2,7 @@
 **Data Scientist | Storyteller with Data**  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_ID&label=Profile+Views" alt="YOUR_ID" />
+  <img src="https://komarev.com/ghpvc/?username=ChamiKim&label=Profile+Views" alt="ChamiKim" />
 </p>
 
 ---
