@@ -1,13 +1,11 @@
 # 👋 Hello! I'm Chami Kim  
 **Data Scientist |  AI Product Strategist | Storyteller with Data**  
 
+
 - 🎓 **School:** Hanyang University (한양대학교)  
 - 🧑‍🎓 **Program:** M.S. in Business Informatics 
 - 📍 **Location:** Seoul, South Korea 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ChamiKim&label=Profile+Views" alt="ChamiKim" />
-</p>
 
 ---
 
