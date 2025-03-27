@@ -5,7 +5,7 @@
 - 🧑‍🎓 **Program:** M.S. in Business Informatics 
 - 📍 **Location:** Seoul, South Korea 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ChamiKim&label=Profile+Views" alt="ChamiKim" />
 </p>
 
