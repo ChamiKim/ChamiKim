@@ -9,20 +9,21 @@
 
 ## 🧠 My Tech Stack  
 **Languages & Tools:**  
-Python | R | SQL | Jupyter | Pandas | Scikit-learn | PyTorch | TensorFlow | Tableau | Power BI | Git  
+Python | R | SQL | Jupyter | Pandas | Scikit-learn | PyTorch | TensorFlow | Tableau | Gephi | Git  
 
 **Specialties:**  
-📈 Exploratory Data Analysis (EDA)  
-🧠 Machine Learning / Deep Learning  
-📊 Data Visualization & Dashboards  
-📚 NLP, Time Series, Recommender Systems  
+🧠 LLMs & Generative AI (Prompt Engineering, RAG)  
+📊 Data-driven Marketing & Consumer Behavior Analysis  
+🎯 Recommender Systems & Hyper-Personalization  
+🧪 A/B Testing, Propensity Score Matching (PSM), Causal Inference  
+📚 NLP, Log Data Analysis, Session Behavior Tracking  
 
 ---
 
 ## 📊 GitHub Stats
 
-![YOUR_ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=dark)
+![YOUR_ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamiKim&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamiKim&layout=compact&theme=dark)
 
 ---
 
