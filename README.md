@@ -32,14 +32,14 @@ Python | R | SQL | Jupyter | Pandas | Scikit-learn | PyTorch | TensorFlow | Tabl
 ### 🔍 AI Summary Review Analysis  
 `🧪 NLP, LLM, Generative AI`  
 > 분석을 통해 구매 결정 시간 14.5% 단축, 반품율 32% 감소 달성  
-[🔗 GitHub Link](https://github.com/ChamiKim/GenAI)
+[🔗 GitHub Link](https://github.com/ChamiKim/GenAI-Review-Summary )
 
 ---
 
 ### 🎯 Smart TV 추천 메시지 생성  
 `📚 Prompt Engineering, CTR 향상`  
-> 하이퍼퍼스널화 추천 문구로 클릭률 6.7% 증가  
-[🔗 GitHub Link](https://github.com/ChamiKim/smart-tv-recommender)
+> 개인화 추천 문구로 클릭률 6.7% 증가  
+[🔗 GitHub Link](https://github.com/ChamiKim/LGE)
 
 ---
 
