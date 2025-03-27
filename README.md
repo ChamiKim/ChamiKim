@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Chami Kim  
-**Data Scientist | Storyteller with Data**  
+**Data Scientist |  AI Product Strategist | Storyteller with Data**  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChamiKim&label=Profile+Views" alt="ChamiKim" />
