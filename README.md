@@ -55,7 +55,7 @@
 
 ## 📬 Contact  
 - ✉️ Email: tinacham9@email.com  
-- 💼 LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid)  
+- 💼 LinkedIn: [업데이트예정](업데이트예정)  
 - 📘 Blog: [https://dodoofdodo.tistory.com/](https://dodoofdodo.tistory.com/)
 
 ---
